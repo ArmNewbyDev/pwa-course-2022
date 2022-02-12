@@ -9,7 +9,7 @@ function Userlist () {
 
 function Chat () {
   return (
-    <div className="chat">
+    <div className="chat ">
     </div>
   )
 }
@@ -23,7 +23,7 @@ function Inputbox () {
 
 function App() {
   return (
-    <div className="App">
+    <div className="App col-6">
       <Userlist/>
       <Chat/>
       <Inputbox/>
