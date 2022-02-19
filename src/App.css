@@ -17,6 +17,9 @@
 .chat {
   flex: 12;
   background-color: silver;
+  background-image: url(/public/spongebob-you-what.gif);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .inputbox {
